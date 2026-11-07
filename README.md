@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bilge Erdem Altuntaş
 
-<!--
-**ErdemALTunta/ErdemALTunta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical-Electronics Engineer focused on RF systems, software-defined radio (SDR) and deep learning for wireless signals. MSc student at Erzurum Technical University.
 
-Here are some ideas to get you started:
+## Interests
+- Automatic modulation recognition
+- SDR-based communication systems (ADALM-PLUTO)
+- Digital communications and signal processing
+- Wireless / telecom systems design and integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Publications
+- *Deep Learning-Based Automatic Modulation Recognition of Harmonic-Modulated Signals*, SIU 2026, IEEE. [Link](https://ieeexplore.ieee.org/document/11636998)
+- *Deep Learning Based Automatic Modulation Recognition Using GELU Activation Function*, eSmarTA 2024, IEEE. [Link](https://ieeexplore.ieee.org/document/10638998)
+
+## Highlights
+- TEKNOFEST Wireless Communication Competition, second place in Türkiye (2024)
+- TÜBİTAK 2209-A project lead
+
+## Projects
+Link budget tools, SDR experiments and modulation recognition work are on the way.
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/be-altuntas)
