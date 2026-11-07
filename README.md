@@ -1,23 +1,25 @@
+**Türkçe** | [English](README.en.md)
+
 # Bilge Erdem Altuntaş
 
-Electrical-Electronics Engineer focused on RF systems, software-defined radio (SDR) and deep learning for wireless signals. MSc student at Erzurum Technical University.
+RF sistemleri, yazılım tanımlı radyo (SDR) ve kablosuz sinyaller için derin öğrenme üzerine çalışan Elektrik-Elektronik Mühendisi. Erzurum Teknik Üniversitesi'nde yüksek lisans öğrencisi.
 
-## Interests
-- Automatic modulation recognition
-- SDR-based communication systems (ADALM-PLUTO)
-- Digital communications and signal processing
-- Wireless / telecom systems design and integration
+## İlgi Alanları
+- Otomatik modülasyon tanıma
+- SDR tabanlı haberleşme sistemleri (ADALM-PLUTO)
+- Sayısal haberleşme ve sinyal işleme
+- Kablosuz / telekom sistem tasarımı ve entegrasyonu
 
-## Publications
-- *Deep Learning-Based Automatic Modulation Recognition of Harmonic-Modulated Signals*, SIU 2026, IEEE. [Link](https://ieeexplore.ieee.org/document/11636998)
-- *Deep Learning Based Automatic Modulation Recognition Using GELU Activation Function*, eSmarTA 2024, IEEE. [Link](https://ieeexplore.ieee.org/document/10638998)
+## Yayınlar
+- *Deep Learning-Based Automatic Modulation Recognition of Harmonic-Modulated Signals*, SIU 2026, IEEE. [Bağlantı](https://ieeexplore.ieee.org/document/11636998)
+- *Deep Learning Based Automatic Modulation Recognition Using GELU Activation Function*, eSmarTA 2024, IEEE. [Bağlantı](https://ieeexplore.ieee.org/document/10638998)
 
-## Highlights
-- TEKNOFEST Wireless Communication Competition, second place in Türkiye (2024)
-- TÜBİTAK 2209-A project lead
+## Öne Çıkanlar
+- TEKNOFEST Kablosuz Haberleşme Yarışması, Türkiye ikincisi (2024)
+- TÜBİTAK 2209-A proje yürütücüsü
 
-## Projects
-Link budget tools, SDR experiments and modulation recognition work are on the way.
+## Projeler
+Link budget araçları, SDR denemeleri ve modülasyon tanıma çalışmaları yolda.
 
-## Contact
+## İletişim
 [LinkedIn](https://www.linkedin.com/in/be-altuntas)
